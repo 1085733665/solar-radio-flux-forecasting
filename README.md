@@ -18,7 +18,7 @@ python run.py
 # Result
 The daily F10.7 indices used in this study are obtained from NASA OmniWeb, ranging from January 1, 1965, to December 31, 2021 which covers solar cycles 20-24. The entire dataset was split into 3 subsets with the ratios of 50%: 25%: 25%, i.e., the training set covering the period from January 1965 to January 1994, the validation set covering the period from January 1994 to December 2007, and the test set covering the period from January 2008 to December 2021.
 
-The test results are in forecasting results during 20080101-20211231.csv
+The test results are in `forecasting results during 20080101-20211231.csv`
 
 # Acknowledgments
 We greatly acknowledge British Geological Survey (BGS), Collecte Localisation Satellites (CLS), and the Space Weather Prediction Center (SWPC), as well as the National Geophysical Data Center (NOAA) for providing the data necessary to carry out this work. We also thank Haoyi Zhou, the creator of the Informer model, for answering questions on the details and providing valuable insights.
